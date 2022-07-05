@@ -1,1 +1,1 @@
-# SkillBox_Python_Basic
+# SkillBox уроки Python_Basic.
